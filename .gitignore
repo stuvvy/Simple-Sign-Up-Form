@@ -2,6 +2,10 @@
 
 # dependencies
 /node_modules
+/package-lock.json
+/postcss.config.js
+/tailwind.config.js
+/next.config.js
 /.pnp
 .pnp.js
 
